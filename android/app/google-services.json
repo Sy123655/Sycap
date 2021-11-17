@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "573280288774",
+    "project_id": "sycapapp",
+    "storage_bucket": "sycapapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573280288774:android:4096fc66420280f7584387",
+        "android_client_info": {
+          "package_name": "com.sycapapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573280288774-3k22nphuvdapnog3g4a4r08dv96k31c0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sycapapp",
+            "certificate_hash": "1d3af421fbf1c1bc3ad823c50c6758323da72ccd"
+          }
+        },
+        {
+          "client_id": "573280288774-4222as5gmfettphdl5vejgq4o1q886uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGT_M2bMXq_q81TZ7D7FwrtBsgAxRgwrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573280288774-4222as5gmfettphdl5vejgq4o1q886uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
